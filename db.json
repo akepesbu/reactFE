@@ -1,0 +1,35 @@
+{
+  "notas": [
+    {
+      "id": "1",
+      "text": "Aprender React",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "text": "Hacer ejercicio",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "text": "Leer un libro",
+      "completed": true
+    },
+    {
+      "text": "Ir a tenis con Lupita",
+      "completed": true,
+      "id": "lpJ1ItEC2DM"
+    },
+    {
+      "text": "Ir a Turquia",
+      "completed": true,
+      "id": "t1bcHyHfnaw"
+    },
+    {
+      "text": "Estudiar geometria con Lupi",
+      "completed": true,
+      "id": "TRBr2W_blIQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
